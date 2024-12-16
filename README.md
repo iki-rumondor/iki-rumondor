@@ -11,7 +11,7 @@ I’m an enthusiastic **Informatics Engineering graduate** with a passion for pr
   - Back-end: Golang, Laravel  
   - Database: MySQL, PostgreSQL  
 - **Networking**: Switch Configuration & Network Troubleshooting  
-- **Programming Languages**: Python, JavaScript, PHP, C++  
+- **Programming Languages**: JavaScript, PHP, Golang  
 - **Other Tools**: Git, Docker, Ubuntu  
 
 ---
